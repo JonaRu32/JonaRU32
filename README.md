@@ -35,6 +35,7 @@ I'm a **Multiplatform Applications Development (DAM)** student. I like coding, t
 ### 💻 Current Operations
 - 🏗️ **Servicios Modulares Luvim:** Developing a corporate website.
 - ☕ **ColdWar:** Java development project for class.
+- 🎮 **Learning godot...
 
 ---
 
