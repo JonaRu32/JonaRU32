@@ -7,14 +7,6 @@ I'm a **Multiplatform Applications Development (DAM)** student. I like coding, t
 
 ---
 
-### 📊 Agent Stats
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JonaRU32&show_icons=true&theme=tokyonight&hide_border=true" alt="Jona's GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonaRU32&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
-
----
-
 ### 🛠️ The Arsenal
 <p align="left">
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
