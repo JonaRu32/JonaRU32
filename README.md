@@ -36,7 +36,7 @@ Full corporate website for a modular-homes company. Designed, developed and **de
 
 ### 📫 Get in touch
 - 💼 Need someone for your website or project? I'm open to collaborations and internships.
-- 📧 [your-contact-email]
+- 📧 ruizsanchezjonathan06@gmail.com
 
 ---
 
