@@ -2,7 +2,7 @@
 
 Multiplatform Application Development student and freelance developer. I design, build and ship real-world web projects for clients — end to end: code, deployment, hosting and domain setup.
 
-🌍 A Laracha, Galicia (Spain) · 🐧 Linux (CachyOS) enjoyer
+🌍 A Laracha, Galicia (Spain) · 🐧 Linux tinkerer & hardware enthusiast
 
 ---
 
@@ -29,6 +29,15 @@ Full corporate website for a modular-homes company. Designed, developed and **de
 
 ---
 
+### 🐧 Beyond the code
+
+I love getting my hands dirty with hardware and systems:
+- 🔧 **Hardware:** building and repairing PCs from scratch.
+- 🖥️ **Linux deep-dive:** built and customized a full **Hyprland** environment from zero — learned a ton about the system along the way.
+- 🎮 Gaming, music and tweaking my setup until it's just right.
+
+---
+
 ### 🎯 Currently learning
 `C` · `Advanced Git` · `Godot / Game Dev` · `UI/UX`
 
@@ -36,8 +45,8 @@ Full corporate website for a modular-homes company. Designed, developed and **de
 
 ### 📫 Get in touch
 - 💼 Need someone for your website or project? I'm open to collaborations and internships.
-- 📧 ruizsanchezjonathan06@gmail.com
+- 📧 [your-contact-email]
 
 ---
 
-<sub>*"It's dangerous to go alone! Take this code."* 🗡️ — Dev with a gamer soul and custom Linux setups.</sub>
+<sub>*"It's dangerous to go alone! Take this code."* 🗡️</sub>
