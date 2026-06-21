@@ -29,6 +29,14 @@ Full corporate website for a modular-homes company. Designed, developed and **de
 
 ---
 
+### 🤖 AI & tooling
+
+I work with modern AI-assisted workflows and enjoy understanding the tech under the hood:
+- 🧠 Building real projects with AI tools like **Claude** and **Antigravity**.
+- 🖥️ Self-hosted local LLMs with **Ollama + Open WebUI**, just to learn how it all works.
+
+---
+
 ### 🐧 Beyond the code
 
 I love getting my hands dirty with hardware and systems:
@@ -45,7 +53,7 @@ I love getting my hands dirty with hardware and systems:
 
 ### 📫 Get in touch
 - 💼 Need someone for your website or project? I'm open to collaborations and internships.
-- 📧 [ruizsanchezjonathan06@gmail.com]
+- 📧 [your-contact-email]
 
 ---
 
