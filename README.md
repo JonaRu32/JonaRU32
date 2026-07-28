@@ -53,7 +53,7 @@ I love getting my hands dirty with hardware and systems:
 
 ### 📫 Get in touch
 - 💼 Need someone for your website or project? I'm open to collaborations and internships.
-- 📧 [your-contact-email]
+- 📧 ruizsanchezjonathan06@gmail.com
 
 ---
 
