@@ -20,7 +20,7 @@ Full corporate website for a modular-homes company. I designed, developed and **
 
 Making games is what I enjoy most, and it's where I want to work.
 - 🕹️ **[GodotCharacterTest](https://github.com/JonaRu32/GodotCharacterTest)**: a 2D platformer in Godot with a triple jump, an animated pixel-art character and a level I made myself.
-- 🚧 **Next:** a small, complete game of my own, published on itch.io.
+- 🚧 **Next:** a small, complete game of my own.
 
 ---
 
